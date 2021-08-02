@@ -1,8 +1,8 @@
 # //===========================================
 # {G}
 # {gurraoptimus.se}
-# udemy-JavaScript.
-# here is the udemy JavaScript course.
+# JavaScript.
+# here is the JavaScript course.
 # https://bit.ly/3q1qvql
  Copyright © gurraoptimus.se 2021. All rights reserved
 # //===========================================

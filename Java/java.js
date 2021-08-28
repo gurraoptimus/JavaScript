@@ -6,7 +6,7 @@ if (age>=24)
 
 console.log("you are an adult");
 
-console.log("you are over 24");
+console.log("you are over 18");
 }
 
 else

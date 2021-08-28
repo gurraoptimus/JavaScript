@@ -1,6 +1,6 @@
 var age=21;
 var planet="Earth";
-if (age>=18)
+if (age>=24)
 
 {
 

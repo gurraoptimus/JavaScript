@@ -1,12 +1,12 @@
 var age=21;
 var planet="Earth";
-if (age>=21)
+if (age>=24)
 
 {
 
 console.log("you are an adult");
 
-console.log("you are over 21");
+console.log("you are over 24");
 }
 
 else

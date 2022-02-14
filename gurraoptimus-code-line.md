@@ -7,7 +7,7 @@
 ### //================
 
 # Mapp [JavaScript Course](JavaScriptCourse)
-### //================================
+### //=========================
 ### //  01-Fundamentals-Part-1
 ### //  02-Fundamentals-Part-2
 ### //  03-Developer-Skills
@@ -26,7 +26,7 @@
 ### //  16-Asynchronous
 ### //  17-Modern-JS-Modules-Tooling
 ### //  18-forkify
-### //================================
+### //=========================
 
 # Mapp [login-js](login-js)
 ### //================

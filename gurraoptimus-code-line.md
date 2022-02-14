@@ -3,13 +3,13 @@
 # HelloWorld.java
 [HelloWorld.java](https://bit.ly/3HSMTdJ)
 
-# Mapp [Java]()
+# Mapp [Java](Java)
 ### //================
 ### // HelloWorld.java
 ### // java.js
 ### //================
 
-# Mapp [JavaScriptcourse](https://bit.ly/3sF40cI)
+# Mapp [JavaScriptcourse](JavaScriptcourse)
 ### //================================
 ### //  01-Fundamentals-Part-1
 ### //  02-Fundamentals-Part-2
@@ -31,14 +31,14 @@
 ### //  18-forkify
 ### //================================
 
-# Mapp [login-js]()
+# Mapp [login-js](login-js)
 ### //================
 ### // java.js
 ### // login.css
 ### // login.html
 ### //================
 
-# Mapp [myvideo]()
+# Mapp [myvideo](myvideo)
 ### //================
 ### // myvideo.js
 ### //================

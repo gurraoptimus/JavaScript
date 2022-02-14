@@ -1,8 +1,5 @@
 # gurra-optimus-code-line
 
-# HelloWorld.java
-[HelloWorld.java](https://bit.ly/3HSMTdJ)
-
 # Mapp [Java](Java)
 ### //================
 ### // HelloWorld.java

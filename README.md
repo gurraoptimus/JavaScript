@@ -9,6 +9,6 @@
 
 ## <<<<<<<<<<<<>>>>>>>>>>>
 # //======================
-# //[gurraoptimus-code-line](gurraoptimus-code-line.mc)
+# //[gurraoptimus-code-line](gurraoptimus-code-line.md)
 # //======================
 ## <<<<<<<<<<<>>>>>>>>>>>>

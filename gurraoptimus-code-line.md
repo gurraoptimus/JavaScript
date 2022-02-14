@@ -9,7 +9,7 @@
 ### // java.js
 ### //================
 
-# Mapp [JavaScriptcourse](JavaScriptcourse)
+# Mapp [JavaScript Course](JavaScriptCourse)
 ### //================================
 ### //  01-Fundamentals-Part-1
 ### //  02-Fundamentals-Part-2

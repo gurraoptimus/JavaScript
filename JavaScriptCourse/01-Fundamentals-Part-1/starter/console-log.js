@@ -1,6 +1,6 @@
 let country = "Sverige";
 let continent = "Europa";
-let population = 1049381;
+let population = 1249381;
 
 console.log("Jag bor i " + country + ".");
 

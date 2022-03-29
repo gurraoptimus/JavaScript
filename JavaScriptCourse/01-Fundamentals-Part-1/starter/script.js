@@ -11,7 +11,7 @@ let firstName = "Belle Delphine";
 console.log(firstName);
 */
 
-const now = 2022;
+/*const now = 2022;
 const ageGurra = now - 2000;
 const ageOzzle = now - 1994;
 console.log(ageGurra, ageOzzle);
@@ -22,3 +22,6 @@ console.log(ageGurra * 2, ageOzzle /10, 2 ** 3);
 const firstName = "Gurra"
 const lastName = "Optimus"
 console.log(firstName + "_" + lastName);
+*/
+let x =10 +5
+console.log(x);

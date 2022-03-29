@@ -1,4 +1,4 @@
-let country = "Sverige";
+/*let country = "Sverige";
 let continent = "Europa";
 let population = 1249381;
 
@@ -22,3 +22,4 @@ if(!isElevenMillions){
 } else if(isElevenMillions){
     console.log("Det bor mer än 10 miljoner i " + country);
 }
+*/

@@ -21,4 +21,4 @@ console.log(ageGurra * 2, ageOzzle /10, 2 ** 3);
 
 const firstName = "Gurra"
 const lastName = "Optimus"
-console.log(firstName+lastName);
+console.log(firstName + "_" + lastName);

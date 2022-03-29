@@ -18,3 +18,7 @@ console.log(ageGurra, ageOzzle);
 
 console.log(ageGurra * 2, ageOzzle /10, 2 ** 3);
 // 2 ** 3 means 2 to the of 3 = 2 * 2 * 2
+
+const firstName = "Gurra"
+const lastName = "Optimus"
+console.log(firstName+lastName);
